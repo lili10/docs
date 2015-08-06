@@ -12,15 +12,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../source/reference/command.txt:3
-msgid "Database Commands"
+msgid "数据库命令"
 msgstr ""
 
 #: ../source/reference/command.txt:7
 msgid ""
-"All command documentation outlined below describes a command and its "
-"available parameters and provides a document template or prototype for each "
-"command. Some command documentation also includes the relevant "
-":program:`mongo` shell helpers."
+"下文列出了命令的描述及其可用的参数 "
+"并且提供了每个命令的文档模版或者原型 "
+"一些命令的文档也包括 "
+":program:`mongo` 的 shell 帮助手册."
 msgstr ""
 
 #: ../source/reference/command.txt:13
